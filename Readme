@@ -1,0 +1,16 @@
+# Semantic Segmentation of Satellite image
+
+# Original challenge LoveDA Semantic Segmentation Challenge (WuhanUniv)
+
+you can use the code as per the markup given in .ipynb file
+
+we have trained "ResNet" Backbone model for randomly chosen 
+200 images from train and for 160 epochs
+
+The trained model link is here:https: //drive.google.com/file/d/141eGvIgNONueVVSnwuDUIN_RsBT0GiUI/view?usp=sharing
+
+the test fuction can help you visualise the results they are also present in the .ipynb file
+
+# challenge link:
+https://competitions.codalab.org/competitions/35865
+
